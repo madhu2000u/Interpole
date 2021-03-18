@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interpol</string>
+    <string name="query_hint">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="uk_police">UK Police</string>
+    <string name="email">102118035@nitt.edu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Id">Id:\t</string>
+</resources>
